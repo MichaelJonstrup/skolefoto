@@ -1,0 +1,2 @@
+# skolefoto
+Skolefoto hjemmeside
